@@ -1,6 +1,6 @@
 # flutter_animation
 
-A new Flutter application.
+Flutter application using the modified Flare library. To work with animations created in the editor 2DIMENSIONS.
 
 ## Getting Started
 
